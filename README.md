@@ -6,7 +6,6 @@
  
 ## Desafío: Desarrollo de sitio tipo Marketplace usando React y Material UI.
 ## Build: https://dado-azul-marketplace.netlify.app/
-## Video de presentación del proyecto: https://youtu.be/8hv2n72GJm4
 ## Investigación y desarrollo visual diseño UXUI: https://www.behance.net/gallery/209437811/DADOAZUL-MARKETPLACE-WEB
 ## Características:
 ### · Filtrado de publicaciones (lista de productos) por nombre.
@@ -19,3 +18,4 @@
 ### · Añadir y organizar productos en carrito de compra.
 ### · Persistencia de datos con localStorage para productos y usuarios logeados.
 ### · Tamaños responsivos para distintos dispositivos.
+## Video de presentación del proyecto: https://youtu.be/8hv2n72GJm4
