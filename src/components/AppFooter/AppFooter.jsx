@@ -66,7 +66,9 @@ export default function AppFooter() {
                                         textJustify: "initial",
                                         mt: "10px",
                                     }}
-                                >Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam sit amet loremter.
+                                >Comparte tu pasión por los juegos de mesa y únete a la diversión.
+                                    <br />
+                                    ¡Te estamos esperando!
                                 </Typography>
                                 <Typography
                                     variant="a"

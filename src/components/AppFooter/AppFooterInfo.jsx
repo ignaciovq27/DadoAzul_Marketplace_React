@@ -31,7 +31,7 @@ export default function AppFooterInfo() {
                                 m: "auto",
                                 fontSize: "15px"
                             }}
-                        >IGNACIO VARAS Q.
+                        >Desarrollado por: IGNACIO VARAS Q.
                         </Typography>
                     </Box>
                     <Box sx={{

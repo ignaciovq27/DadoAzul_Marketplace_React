@@ -40,7 +40,7 @@ export default function AppSection() {
                         sx={{
                             textAlign: "left",
                         }}
-                    >BIENVENIDO AL MEJOR MARKETPLACE DE JUEGOS DE MESA
+                    >DESCUBRE UN MERCADO LÚDICO PARA DISFRUTRAR JUGANDO
                     </Typography>
                     <Typography
                         disabled={false}
@@ -52,7 +52,7 @@ export default function AppSection() {
                             mt: "20px",
                             mb: "20px", fontWeight: "bold",
                         }}
-                    >"Lorem ipsum, dolor sit amet consectetur adipisicing elit. "
+                    >"El lugar ideal para compartir tus hobbies favoritos."
                     </Typography>
                     <Typography
                         disabled={false}
@@ -64,7 +64,7 @@ export default function AppSection() {
                             mt: "20px",
                             mb: "20px",
                         }}
-                    >Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil beatae ipsum assumenda reprehenderit dolorem porro minus doloremque recusandae nesciunt odio cupiditate eum ullam itaque quos similique accusantium sint, nisi maxime!
+                    >DADOAZUL es mucho más que un marketplace; es el punto de encuentro para coleccionistas, jugadores y entusiastas de los juegos de tablero, figuras, accesorios y mucho más. Aquí puedes explorar una amplia variedad de hobbies, intercambiar con otros miembros de la comunidad y fortalecer un espacio vibrante que celebra el amor por el juego y la diversión.
                     </Typography>
                 </Grid >
                 <Grid
